@@ -1,0 +1,16 @@
+D:\DOC PER\C# CONSOLA\ReadingCOMTesting\ReadingCOMTesting\ReadingCOMTesting\bin\Debug\ReadingCOMTesting.exe.config
+D:\DOC PER\C# CONSOLA\ReadingCOMTesting\ReadingCOMTesting\ReadingCOMTesting\bin\Debug\ReadingCOMTesting.exe
+D:\DOC PER\C# CONSOLA\ReadingCOMTesting\ReadingCOMTesting\ReadingCOMTesting\bin\Debug\ReadingCOMTesting.pdb
+D:\DOC PER\C# CONSOLA\ReadingCOMTesting\ReadingCOMTesting\ReadingCOMTesting\obj\Debug\ReadingCOMTesting.csproj.AssemblyReference.cache
+D:\DOC PER\C# CONSOLA\ReadingCOMTesting\ReadingCOMTesting\ReadingCOMTesting\obj\Debug\ReadingCOMTesting.csproj.CoreCompileInputs.cache
+D:\DOC PER\C# CONSOLA\ReadingCOMTesting\ReadingCOMTesting\ReadingCOMTesting\obj\Debug\ReadingCOMTesting.exe
+D:\DOC PER\C# CONSOLA\ReadingCOMTesting\ReadingCOMTesting\ReadingCOMTesting\obj\Debug\ReadingCOMTesting.pdb
+D:\DOC PER\C# CONSOLA\ReadingCOMTesting\ReadingCOMTesting\ReadingCOMTesting\bin\Debug\EntityFramework.dll
+D:\DOC PER\C# CONSOLA\ReadingCOMTesting\ReadingCOMTesting\ReadingCOMTesting\bin\Debug\EntityFramework.SqlServer.dll
+D:\DOC PER\C# CONSOLA\ReadingCOMTesting\ReadingCOMTesting\ReadingCOMTesting\bin\Debug\System.Data.SQLite.dll
+D:\DOC PER\C# CONSOLA\ReadingCOMTesting\ReadingCOMTesting\ReadingCOMTesting\bin\Debug\System.Data.SQLite.EF6.dll
+D:\DOC PER\C# CONSOLA\ReadingCOMTesting\ReadingCOMTesting\ReadingCOMTesting\bin\Debug\System.Data.SQLite.Linq.dll
+D:\DOC PER\C# CONSOLA\ReadingCOMTesting\ReadingCOMTesting\ReadingCOMTesting\bin\Debug\EntityFramework.xml
+D:\DOC PER\C# CONSOLA\ReadingCOMTesting\ReadingCOMTesting\ReadingCOMTesting\bin\Debug\EntityFramework.SqlServer.xml
+D:\DOC PER\C# CONSOLA\ReadingCOMTesting\ReadingCOMTesting\ReadingCOMTesting\bin\Debug\System.Data.SQLite.xml
+D:\DOC PER\C# CONSOLA\ReadingCOMTesting\ReadingCOMTesting\ReadingCOMTesting\obj\Debug\ReadingC.D8279ECB.Up2Date
